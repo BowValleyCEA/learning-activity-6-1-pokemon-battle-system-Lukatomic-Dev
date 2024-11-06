@@ -89,3 +89,35 @@ public class Bulbasaur : Pokemon
         base.BasicAttack();
     }
 }
+
+public class Charmander : Pokemon
+{
+    public override void BasicAttack()
+    {
+        base.BasicAttack();
+    }
+}
+
+public class Squirtle : Pokemon
+{
+    public override void BasicAttack()
+    {
+        base.BasicAttack();
+    }
+}
+
+public class Pikachu : Pokemon
+{
+    public override void BasicAttack()
+    {
+        base.BasicAttack();
+    }
+}
+
+public class Eevee : Pokemon
+{
+    public override void BasicAttack()
+    {
+        base.BasicAttack();
+    }
+}
